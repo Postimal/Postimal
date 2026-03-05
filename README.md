@@ -1,5 +1,5 @@
 # Michał P—@Postimal
-Hi, I'm Michal—a senior frontend developer at LOT working on [LOT Pages](https://lot.com/pl) to fulfill client will. I'm a huge frontend fun from 2018, VanillaJS, (React(classes + hooks) & Redux, SCSS, CSS in JS) - in side projects. Mastering Angular framework from 2020.
+Hi, I'm Michal—a senior frontend developer at LOT working on [LOT Pages](https://lot.com) to fulfill client will. I'm a huge frontend fun from 2018, VanillaJS, (React(classes + hooks) & Redux, SCSS, CSS in JS) - in side projects. Mastering Angular framework from 2020.
 
 ## My way
 🎃 Learn the hard way is always++<br>
