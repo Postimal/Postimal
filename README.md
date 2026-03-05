@@ -1,5 +1,5 @@
 # Michał P—@Postimal
-Hi, I'm Michal—a junior frontend developer at Cheil Poland working on [Samsung Pages](https://samsung.com/pl) to fulfill client will. I'm a huge frontend fun from 2018, VanillaJS, (React(classes + hooks) & Redux, SCSS, CSS in JS) - in side projects. Aspiring to regular/mid in 2021 .😎
+Hi, I'm Michal—a senior frontend developer at LOT working on [LOT Pages](https://lot.com/pl) to fulfill client will. I'm a huge frontend fun from 2018, VanillaJS, (React(classes + hooks) & Redux, SCSS, CSS in JS) - in side projects. Mastering Angular framework from 2020.
 
 ## My way
 🎃 Learn the hard way is always++<br>
@@ -7,9 +7,12 @@ Hi, I'm Michal—a junior frontend developer at Cheil Poland working on [Samsung
 💻 Medium, Dev.to, egghead.io + mini projects<br>
 🏐 Sport helps out
 
+## Senior-End Developer<br>
+
+## Front-End Developer<br>
 
 ## Junior Front-End Developer<br>
-Sep 2019 - present<Br>
+Sep 2019 - 2021<Br>
 - Developing custom landing pages and banners<br>
 - Debugging code (HTML/CSS/JS)<br>
 
